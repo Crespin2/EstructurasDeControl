@@ -1,5 +1,5 @@
 
-package estructuras.condicionales;
+package EjerciciosDeAplicacionI;
 
 
 public class Ejer2 {

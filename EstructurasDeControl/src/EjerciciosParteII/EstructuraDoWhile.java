@@ -1,7 +1,7 @@
 /*3-. Crear otra clase con el nombre EstructuraDoWhile y se realizará el ejemplo 
 anterior y verificar su funcionamiento; el código es el siguiente:*/
 
-package EstructurasCiclicas;
+package EjerciciosParteII;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

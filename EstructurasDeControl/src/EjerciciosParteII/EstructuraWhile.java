@@ -2,7 +2,7 @@
 el nombre estructuras.ciclicas en ese paquete crear una clase con el nombre 
 EstructuraWhile y el código será el siguiente:*/
 
-package EstructurasCiclicas;
+package EjerciciosParteII;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,6 +1,7 @@
 
-package estructuras.condicionales;
+package EjerciciosDeAplicacionI;
 
+import EjerciciosDeAplicacionI.Ejer2;
 import java.util.Scanner;
 /*2-. La  empresa  Compu Smart  se  dedica  a  la  venta  de  equipos  de  computación.  
 Vende tanto computadoras como dispositivos periféricos y  consumibles. 

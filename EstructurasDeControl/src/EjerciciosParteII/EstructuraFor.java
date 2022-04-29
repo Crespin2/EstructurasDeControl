@@ -1,7 +1,7 @@
 /*2-. Crear otra clase con el nombre EstructuraFor y desarrollaremos el ejemplo 
 anterior con esa estructura; el código será elsiguiente:*/
 
-package EstructurasCiclicas;
+package EjerciciosParteII;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package estructuras.condicionales;
+package EjerciciosParteI;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
