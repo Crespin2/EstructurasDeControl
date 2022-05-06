@@ -1,5 +1,5 @@
 
-package calculadora1;
+package EjerciciosDeAplicacionI;
 
 import java.util.Scanner;
 
@@ -8,7 +8,7 @@ public class Calculadora1 {
 
     
     public static void main(String[] args) {
-        metodos realizar = new metodos ();
+        metodos realizar = new metodos();
         Scanner entrada = new Scanner(System.in);
         int n1, n2, resultado, opcion;
         boolean op= true;
